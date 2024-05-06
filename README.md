@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-The final project for multivariate analtsis course.
+The final project for the multivariate analysis course.
